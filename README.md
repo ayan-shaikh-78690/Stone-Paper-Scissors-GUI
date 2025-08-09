@@ -1,7 +1,7 @@
 # 🎮 Stone-Paper-Scissors Game (Tkinter)
 
 A fun and interactive **Stone-Paper-Scissors** game built using Python's `tkinter` library.  
-Play against the computer, track scores in a **Best of 5** format, and enjoy a colorful, user-friendly UI.
+Play against the computer, track scores in a **Best of 5** format, and enjoy a colourful, user-friendly UI.
 
 ---
 
