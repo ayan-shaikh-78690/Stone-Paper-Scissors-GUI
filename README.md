@@ -34,7 +34,7 @@ When you run the program:
    ```
 3. **Run the game**
    ```bash
-   main.py
+   pyhton main.py
    ```
 
 ---
